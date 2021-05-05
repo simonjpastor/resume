@@ -130,15 +130,13 @@ body {
 <br> -->
 <center>
   <br>
-<p><font size=22 color='#5DADE2'>Sorry, this section is not available yet! </font></p>
+<p><font size=18 color='#5DADE2'>Sorry, this section is not available yet! </font></p>
   <br>
 <p size=20 color='#5DADE2'>Feel free to check out the other sections and to contact me for any ideas/projects, feedback or just to say hello! </font></p>
 
 <center>
 <a href="https://www.linkedin.com/in/simonpastor/"><p style="font-size:20px">View My Linkedin Profile</p></a>
-<br>
 <a href="https://twitter.com/the_simonpastor"><p style="font-size:20px">Follow me on Twitter 🐦</p></a>
-<br>
 <a href="https://simonpastor.substack.com"><p style="font-size:20px">Check out my Substack 💭</p></a>
 </center>
 
