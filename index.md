@@ -138,7 +138,7 @@ body {
 <a href="https://www.linkedin.com/in/simonpastor/"><p style="font-size:20px">View My Linkedin Profile</p></a>
 <br>
 <a href="https://twitter.com/the_simonpastor"><p style="font-size:20px">Follow me on Twitter 🐦</p></a>
-<br><br>
+<br>
 <a href="https://simonpastor.substack.com"><p style="font-size:20px">Check out my Substack 💭</p></a>
 </center>
 
