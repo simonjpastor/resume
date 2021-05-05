@@ -129,16 +129,16 @@ body {
 </center>
 <br> -->
 <center>
-<p> Sorry, this section is not available yet! </p>
+<p style="font-size:22px"> Sorry, this section is not available yet! </p>
   <br><br>
-<p>Feel free to check out the other sections and to contact me for any ideas/projects, feedback or just to say hello! </p>
+<p style="font-size:20px">Feel free to check out the other sections and to contact me for any ideas/projects, feedback or just to say hello! </p>
 
 <center>
-<a href="https://www.linkedin.com/in/simonpastor/">View My Linkedin Profile</a>
+<a href="https://www.linkedin.com/in/simonpastor/"><p style="font-size:20px">View My Linkedin Profile</p></a>
 <br>
-<a href="https://twitter.com/the_simonpastor">Follow me on Twitter 🐦</a>
+<a href="https://twitter.com/the_simonpastor"><p style="font-size:20px">Follow me on Twitter 🐦</p></a>
 <br><br>
-<a href="https://simonpastor.substack.com">Check out my Substack 💭</a>
+<a href="https://simonpastor.substack.com"><p style="font-size:20px">Check out my Substack 💭</p></a>
 </center>
 
 <!-- ### Other Projects Simon Pastor -->
