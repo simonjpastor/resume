@@ -130,9 +130,9 @@ body {
 <br> -->
 <center>
   <br>
-<p><font size=14 color='#5DADE2'>Sorry, this section is not available yet!</font></p>
+<p style="font-size:20px"><font color='#5DADE2'>Sorry, this section is not available yet!</font></p>
   <br>
-<p> <font size=12 color='#5DADE2'>Feel free to check out the other sections and to contact me for any ideas, projects, feedback or just to say hello! </font></p>
+<p style="font-size:16px"><font color='#5DADE2'>Feel free to check out the other sections and to contact me for any ideas, projects, feedback or just to say hello! </font></p>
 
 <center>
 <a href="https://www.linkedin.com/in/simonpastor/"><p style="font-size:20px">View My Linkedin Profile</p></a>
