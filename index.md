@@ -130,7 +130,14 @@ input[type=submit]:hover {
   border-radius: 4px;
 }
 
-   </style>
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 10px;
+}
+
+</style>
 </head>
 <body>
   <div class="topnav">
