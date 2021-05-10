@@ -201,6 +201,7 @@ input[type=submit]:hover {
       <input type="email" id="email-address" name="_replyto" placeholder="Your email..." required="">
       <br><br>
       <center><input type="submit" value="Download Resume"></center>
+      <br>
     </form>
   </div>
   </center>
