@@ -142,18 +142,18 @@ body {
     </p>
     </center>
   </div>
-<div class="row">
-<form action="https://formspree.io/f/mknkjweb" method="POST">
-        <label for="full-name">Full Name</label>
-        <input type="text" id="full-name" name="name" placeholder="Your full name..." required="">
-        <br><br>
-        <label for="email-address">Email Address</label>
-        <br>
-        <input type="email" id="email-address" name="_replyto" placeholder="Your email..." required="">
-        <br><br>
-        <center><input type="submit" value="Download Resume"></center>
-</form>
-</div>
+  <div class="row">
+    <form action="https://formspree.io/f/mknkjweb" method="POST">
+      <label for="full-name">Full Name</label>
+      <input type="text" id="full-name" name="name" placeholder="Your full name..." required="">
+      <br><br>
+      <label for="email-address">Email Address</label>
+      <br>
+      <input type="email" id="email-address" name="_replyto" placeholder="Your email..." required="">
+      <br><br>
+      <center><input type="submit" value="Download Resume"></center>
+    </form>
+  </div>
 </div>
 
 <center>
