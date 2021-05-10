@@ -137,6 +137,19 @@ input[type=submit]:hover {
   padding: 10px;
 }
 
+@media screen and (max-width: 600px) {
+  .container, input[type=submit] {
+    width:85%;
+    height: 65%;
+    margin-top: 0;
+  }
+
+  .column {
+    width: 100%;
+    height: auto;
+  }
+}
+
 </style>
 </head>
 <body>
