@@ -143,6 +143,7 @@ body {
     </center>
   </div>
   <div class="row">
+    <div class="column">
     <form action="https://formspree.io/f/mknkjweb" method="POST">
       <label for="full-name">Full Name</label>
       <input type="text" id="full-name" name="name" placeholder="Your full name..." required="">
@@ -153,6 +154,7 @@ body {
       <br><br>
       <center><input type="submit" value="Download Resume"></center>
     </form>
+    </div>
   </div>
 </div>
 
