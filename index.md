@@ -137,7 +137,7 @@ body {
     <center>
     <p style="font-size:33px">
     <font color='#5DADE2'>
-      <strong>Please reach out for any ideas, projects, feedback or just to say hello! 💭</strong>
+      <strong>Download Resume💭</strong>
     </font>
     </p>
     </center>
@@ -151,7 +151,7 @@ body {
         <br>
         <input type="email" id="email-address" name="_replyto" placeholder="Your email..." required="">
         <br><br>
-        <center><input type="submit" value="Request Resume"></center>
+        <center><input type="submit" value="Download Resume"></center>
 </form>
 </div>
 </div>
