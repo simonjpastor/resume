@@ -173,11 +173,11 @@ input[type=submit]:hover {
   <center>
   <div class="row">
     <form action="https://formspree.io/f/mknkjweb" method="POST">
-      <label for="full-name">Full Name</label>
+      <label for="full-name"><p style="font-size:22px">Full Name</p></label>
       <br>
       <input type="text" id="full-name" name="name" placeholder="Your full name..." required="">
       <br><br>
-      <label for="email-address">Email Address</label>
+      <label for="email-address"><p style="font-size:22px">Email Address</p></label>
       <br>
       <input type="email" id="email-address" name="_replyto" placeholder="Your email..." required="">
       <br><br>
