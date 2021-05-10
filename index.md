@@ -132,6 +132,17 @@ body {
   <br>
 <p style="font-size:20px"><font color='#5DADE2'>Sorry, this section is not available yet 😢</font></p>
 
+<div class="container">
+  <div style="text-align:center">
+    <center>
+    <p style="font-size:33px">
+    <font color='#5DADE2'>
+      <strong>Please reach out for any ideas, projects, feedback or just to say hello! 💭</strong>
+    </font>
+    </p>
+    </center>
+  </div>
+<div class="row">
 <form action="https://formspree.io/f/mknkjweb" method="POST">
         <label for="full-name">Full Name</label>
         <input type="text" id="full-name" name="name" placeholder="Your full name..." required="">
@@ -142,6 +153,8 @@ body {
         <br><br>
         <center><input type="submit" value="Request Resume"></center>
 </form>
+</div>
+</div>
 
 <center>
 <a href="https://www.linkedin.com/in/simonpastor/"><p style="font-size:20px">View My Linkedin Profile</p></a>
