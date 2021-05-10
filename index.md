@@ -167,7 +167,6 @@ input[type=submit]:hover {
     </center>
   </div>
   <div class="row">
-    <div class="column">
     <form action="https://formspree.io/f/mknkjweb" method="POST">
       <label for="full-name">Full Name</label>
       <br>
@@ -179,7 +178,6 @@ input[type=submit]:hover {
       <br><br>
       <center><input type="submit" value="Download Resume"></center>
     </form>
-    </div>
   </div>
 </div>
 
