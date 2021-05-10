@@ -194,10 +194,10 @@ input[type=submit]:hover {
   <center>
   <div class="row">
     <form action="https://formspree.io/f/mknkjweb" method="POST">
-      <label for="full-name"><p style="font-size:25px">Full Name</p></label>
+      <label for="full-name"><p style="font-size:22px">Full Name</p></label>
       <input type="text" id="full-name" name="name" placeholder="Your full name..." required="">
       <br><br>
-      <label for="email-address"><p style="font-size:25px">Email Address</p></label>
+      <label for="email-address"><p style="font-size:22px">Email Address</p></label>
       <input type="email" id="email-address" name="_replyto" placeholder="Your email..." required="">
       <br><br>
       <center><input type="submit" value="Download Resume"></center>
