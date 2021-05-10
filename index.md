@@ -107,7 +107,7 @@ body {
 }
 
 input[type=text], select, textarea, input[type=email]{
-  width: 40%;
+  width: 35%;
   padding: 12px;
   border: 1px solid #ccc;
   border-radius: 4px;
