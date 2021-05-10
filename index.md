@@ -130,7 +130,7 @@ body {
 <br> -->
 <center>
   <br>
-<p style="font-size:20px"><font color='#5DADE2'>Sorry, this section is not available yet 😢</font></p>
+  <br>
 
 <div class="container">
   <div style="text-align:center">
