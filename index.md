@@ -137,7 +137,7 @@ body {
     <center>
     <p style="font-size:33px">
     <font color='#5DADE2'>
-      <strong>Download Resume💭</strong>
+      <strong>Download Resume</strong>
     </font>
     </p>
     </center>
