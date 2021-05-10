@@ -133,6 +133,17 @@ body {
 <p style="font-size:20px"><font color='#5DADE2'>Sorry, this section is not available yet 😢</font></p>
 <p style="font-size:16px"><font color='#5DADE2'>Feel free to check out the other sections and to contact me for any ideas, projects, feedback or just to say hello! </font></p>
 
+<form action="https://formspree.io/f/mknkjweb" method="POST">
+        <label for="full-name">Full Name</label>
+        <input type="text" id="full-name" name="name" placeholder="Your full name..." required="">
+        <br><br>
+        <label for="email-address">Email Address</label>
+        <br>
+        <input type="email" id="email-address" name="_replyto" placeholder="Your email..." required="">
+        <br><br>
+        <center><input type="submit" value="Request Resume"></center>
+</form>
+
 <center>
 <a href="https://www.linkedin.com/in/simonpastor/"><p style="font-size:20px">View My Linkedin Profile</p></a>
 <a href="https://twitter.com/the_simonpastor"><p style="font-size:20px">Follow me on Twitter 🐦</p></a>
