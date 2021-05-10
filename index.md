@@ -146,6 +146,7 @@ body {
     <div class="column">
     <form action="https://formspree.io/f/mknkjweb" method="POST">
       <label for="full-name">Full Name</label>
+      <br>
       <input type="text" id="full-name" name="name" placeholder="Your full name..." required="">
       <br><br>
       <label for="email-address">Email Address</label>
@@ -157,6 +158,8 @@ body {
     </div>
   </div>
 </div>
+
+<br><br>
 
 <center>
 <a href="https://www.linkedin.com/in/simonpastor/"><p style="font-size:20px">View My Linkedin Profile</p></a>
