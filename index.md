@@ -102,6 +102,10 @@ body {
 
 }
 
+* {
+  box-sizing: border-box;
+}
+
 input[type=text], select, textarea, input[type=email]{
   width: 100%;
   padding: 12px;
