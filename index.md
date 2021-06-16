@@ -210,10 +210,10 @@ input[type=submit]:hover {
 <br><br>
 
 <center>
-<a href="https://www.linkedin.com/in/simonpastor/"><p style="font-size:20px">View My Linkedin Profile 👨‍💼</p></a>
-<a href="https://twitter.com/the_simonpastor"><p style="font-size:20px">Check out my Medium ✏️</p></a>
+<a href="https://www.linkedin.com/in/simonpastor/"><p style="font-size:20px">Connect on Linkedin 👨‍💼</p></a>
 <a href="https://twitter.com/the_simonpastor"><p style="font-size:20px">Follow me on Twitter 🐦</p></a>
-<a href="https://simonpastor.substack.com"><p style="font-size:20px">Check out my Substack 💭</p></a>
+<a href="https://twitter.com/the_simonpastor"><p style="font-size:20px">Read my articles on Medium ✏️</p></a>
+<a href="https://simonpastor.substack.com"><p style="font-size:20px">Check out my Substack newsletter💭</p></a>
 </center>
 
 <!-- ### Other Projects Simon Pastor -->
